@@ -1,0 +1,18 @@
+{
+  "name": "hotaru-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark theme based off the Firefly keycap set",
+  "keywords": [
+    "dark",
+    "gmk",
+    "firefly",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/arturoalviar/hotaru-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

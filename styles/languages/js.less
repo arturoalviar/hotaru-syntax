@@ -1,0 +1,16 @@
+.syntax--js {
+  &.syntax--operator {
+    &.syntax--accessor,
+    &.syntax--spread {
+      color: @syntax-text-color;
+    }
+  }
+  &.syntax--string {
+    &.syntax--unquoted {
+      color: @second;
+    }
+  }
+  &.syntax--shorthandpropertyname {
+    color: @third;
+  }
+}
